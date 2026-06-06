@@ -15,7 +15,8 @@ Dibandingkan bertarung dengan *compiler* atau mencari kurung kurawal yang hilang
 ---
 
 ### 🛠️ "Tech Stack" & Produktivitas
-Saya berfokus pada alat dan metodologi yang memastikan proyek selesai dengan rapi dan tepat waktu:
+Saya berfokus pada alat, bahasa, dan metodologi yang memastikan proyek berjalan dan selesai dengan rapi:
+- 💡 **Pemahaman Teknis (Tech Literacy):** Akrab dengan sintaks dasar dan alur logika dari **PHP, Java, JavaScript, dan HTML/CSS** — cukup untuk berkomunikasi secara presisi dengan para *engineer* pada frekuensi yang sama.
 - ✍️ **Dokumentasi & Logika:** Markdown (untuk dokumentasi terstruktur), Notion, & GitHub Projects.
 - ⚙️ **Orkestrasi Alur Kerja:** Google Workspace, Slack, & Trello untuk kolaborasi tanpa hambatan.
 - ☕ **Bahan Bakar Utama:** Kopi hitam, kesabaran tak terbatas, dan insting pemecahan masalah yang tajam.
