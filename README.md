@@ -25,7 +25,7 @@ Saya berfokus pada alat dan metodologi yang memastikan proyek selesai dengan rap
 ### 📬 Hubungi Saya
 Saya selalu terbuka untuk diskusi mengenai kolaborasi proyek, manajemen digital, atau sekadar bertukar pikiran secara profesional. Hubungi saya di:
 
-[![Email](https://img.shields.io/badge/Email-hubungi%40krisardani.com-blue?style=flat-square&logo=gmail)](mailto:hubungi@krisardani10@gmail.com)
+[![Email](https://img.shields.io/badge/Email-krisardani71%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:krisardani71@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kris%20Ardani-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/KrisArdani)
 
 ---
