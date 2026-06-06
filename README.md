@@ -26,7 +26,7 @@ Saya berfokus pada alat dan metodologi yang memastikan proyek selesai dengan rap
 Saya selalu terbuka untuk diskusi mengenai kolaborasi proyek, manajemen digital, atau sekadar bertukar pikiran secara profesional. Hubungi saya di:
 
 [![Email](https://img.shields.io/badge/Email-krisardani71%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:krisardani71@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kris%20Ardani-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/KrisArdani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kris%20Ardani-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kris-ardani-5a7758409/)
 
 ---
 *“Kode terbaik adalah yang berhasil didelegasikan dan dijalankan dengan kolaborasi yang harmonis.”*
